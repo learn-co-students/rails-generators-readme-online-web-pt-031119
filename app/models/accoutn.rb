@@ -1,0 +1,2 @@
+class Accoutn < ApplicationRecord
+end
